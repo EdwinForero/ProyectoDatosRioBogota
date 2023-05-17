@@ -1,0 +1,12 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [pmuestra_id]
+      ,[municipio]
+      ,[punto]
+      ,[coorms_norte]
+      ,[coorms_este]
+      ,[coorms_str]
+      ,[coorwgs_latitud]
+      ,[coorwgs_longitud]
+      ,[coorwgs_str]
+      ,[altura]
+  FROM [dbo].[D_PuntoMuestra]

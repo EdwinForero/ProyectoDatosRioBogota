@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="proyectoriob.database.windows.net.DWH_proyectoRioB.developerDWH"
+  DTS:DTSID="{5AF35235-A50E-4124-BD4E-B45863A67574}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=proyectoriob.database.windows.net;User ID=developerDWH;Initial Catalog=DWH_proyectoRioB;Provider=SQLOLEDB.1;Persist Security Info=True;Application Name=SSIS-proyectoRioBogotá-{5AF35235-A50E-4124-BD4E-B45863A67574}proyectoriob.database.windows.net.DWH_proyectoRioB.developerDWH;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMSzLv8uaKUmZzJxIq7LCfgAAAAACAAAAAAAQZgAAAAEAACAAAACbPse7cFu2cSbGu6GfyeMtsVBJEq217QMm3JbLpZy+jQAAAAAOgAAAAAIAACAAAABV1YdlvrYfGBFncRM88f1RzXcdzAhU1pZIOOrleux3qoAAAAAD6zGSqNI9LA/gahNvxejlIHfR3kef1JyyAEyzbdSv6+cvcLFo1A0QACAdWUZoY0JEcZFjwzj3XCuuFTWgfh1ASe+4zLRcTwNmQuvULvjVFGsqCLGx5yuMD8MEm24xCAB1e52YyhlIk7+k9ORTaDoLIrj5hfpjXUAetfplRHRuiEAAAADlDhYexkIc3CjF7JdtGWQP4uSHeT9GDBEyOcWk7TXBhLh2UFlSGW5KsBVZ7G/V0eIQP26jL+PGC2kr8g+nyEns</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
