@@ -3,12 +3,14 @@
 
 <br>
 Se desarrolló un Data Warehouse para la centralización de datos, una ELT en SSIS y un informe BI en Power BI para análisis mediante visualizaciones y filtros interactivos.
+El modelo relacional para la base de datos se muestra a continuación:
 <br><br>
-![StarModel](https://github.com/EdwinForero/ProyectoDatosRioBogota/blob/master/Base%20de%20datos/Esquema%20relacional%20de%20datos%20-%20Modelo%20estrella.png)<br>
 
+![StarModel](https://github.com/EdwinForero/ProyectoDatosRioBogota/blob/master/Base%20de%20datos/Esquema%20relacional%20de%20datos%20-%20Modelo%20estrella.png)<br><br>
 De forma complementaria al proceso ETL, se desarrolló un programa en Excel VBA para la depuración y corrección de incosistencias en los datos de la fuente. 
 <br><br>
 ![Macro Excel](https://github.com/EdwinForero/RecursosGitHub/blob/master/Im%C3%A1genesRioBogota/Menu%20Excel.png)<br>
+
 
 También hay un programa en Python para transformar coordenadas *EPSG:3116 MAGNA-SIRGAS* o *ESRI:103599 MAGNA-SIRGAS CMT12* a *WSG84 EPSG:4326*.
 <br><br>
