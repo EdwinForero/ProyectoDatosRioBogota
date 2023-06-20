@@ -1,5 +1,5 @@
 
-# Proyecto de grado - Desarrollo de un sistema para análisis de datos del río Bogotá según zona geográfica.
+# Proyecto de grado - Desarrollo de un sistema de clasificación y análisis de datos para evaluar la calidad del agua del río Bogotá según ubicación geográfica.
 
 <br>
 Se desarrolló un Data Warehouse para la centralización de datos, una ELT en SSIS y un informe BI en Power BI para análisis mediante visualizaciones y filtros interactivos.
